@@ -9,4 +9,5 @@ import org.springframework.roo.addon.tostring.RooToString;
 @RooEntity
 public class Course {
 
+
 }
